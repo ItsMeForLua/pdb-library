@@ -23,4 +23,4 @@ Each molecule folder contains:
 - If you spot an error in a structure, please open an issue or suggest a correction.
 
 ## License
-Unless otherwise noted in subfolders, these files are shared under the MIT license, so you are free to use and share as you please.
+Unless otherwise noted in subfolders, these files are shared under the CC BY 4.0 license (Author: Andrew D. France), so you are free to use and share as you please with appropriate credit when needed.
